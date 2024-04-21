@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
-
+//add: agregar a cola (encolar)
+//poll: (el pop de colas) desencolar
 public class ColaMatricula {
     private Queue<Vehiculo> carros;
 
