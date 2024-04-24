@@ -25,4 +25,13 @@ public class ColaMatricula {
         return mensaje;
     }
 
+    public String listarVehiculosMarca(String marca){
+        String mensaje="";
+        for(Vehiculo v:carros){
+            if(v.getMarca().equals(marca))
+                mensaje += v.toString();
+        }
+        return mensaje;
+    }
+
 }
