@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3066a89f-aed9-4fa1-8391-51ec87b63cc4" name="Changes" comment="Colas Comentado">
+    <list default="true" id="3066a89f-aed9-4fa1-8391-51ec87b63cc4" name="Changes" comment="Desencolar y Cambios">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
@@ -12,9 +12,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ColaMatricula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColaMatricula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ventana.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ventana.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ventana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ventana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ProyectoPilas.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Pila.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Pila.java" afterDir="false" />
@@ -71,7 +68,7 @@
       <workItem from="1713391090987" duration="2753000" />
       <workItem from="1713660239843" duration="278000" />
       <workItem from="1713660966635" duration="115000" />
-      <workItem from="1713995833646" duration="2221000" />
+      <workItem from="1713995833646" duration="2309000" />
     </task>
     <task id="LOCAL-00001" summary="limpiarCampos funcion">
       <option name="closed" value="true" />
@@ -98,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="limpiarCampos funcion" />
     <MESSAGE value="Colas Comentado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colas Comentado" />
+    <MESSAGE value="Desencolar y Cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desencolar y Cambios" />
   </component>
 </project>
